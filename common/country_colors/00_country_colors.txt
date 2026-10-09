@@ -6,6 +6,13 @@
     # color3= { 70 50 40  } #Up to 10% -> try map color here
 # }
 
+# Wapuyura
+WPY = {
+    color1= { 168 117 168 }
+    color2= { 255 255 255 }
+    color3= { 0 0 0 }
+}
+
 # Sweden FIXED
 SWE = {
     color1= { 0 40 104  }
