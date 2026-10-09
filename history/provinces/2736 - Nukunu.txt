@@ -1,16 +1,17 @@
 #2736 - Nukunu
-
+add_core = WPY
+owner = WPY
+controller = WPY
 culture = yura
 religion = dreamtime
 capital = "Nukunu"
-trade_goods = unknown
+trade_goods = iron
 hre = no
-base_tax = 3 
+is_city = yes
+base_tax = 4 
 base_production = 3
-base_manpower = 1
-native_size = 10
-native_ferocity = 1
-native_hostileness = 9
+base_manpower = 5
 discovered_by = aboriginal_tech
+discovered_by = chinese
 
 1802.1.1 = { discovered_by = GBR } # Matthew Flinders
