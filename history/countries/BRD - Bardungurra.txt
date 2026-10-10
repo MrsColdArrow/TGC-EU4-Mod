@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = gunwinyguan
+religion = dreamtime
+technology_group = aboriginal_tech
+capital = 4865 #Pilbara
+
+
+1444.11.11 = {
+	monarch = {
+		name = "Arlincurra"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}

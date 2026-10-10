@@ -1,0 +1,61 @@
+#Country Name: Please seefilename.
+
+graphical_culture = aboriginalgfx
+
+color = { 44 95 158 }
+#revolutionary_colors = { 10 8 5 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	spy_ideas
+	infrastructure_ideas
+	aristocratic_ideas
+	diplomatic_ideas_ideas
+	maritime_ideas
+	expansion_ideas
+}
+
+historical_units = {
+	aboriginal_boomerang
+	aboriginal_reformed_boomerang
+	aboriginal_horseman
+	aboriginal_outback_warriors
+	aboriginal_cavalry
+	aboriginal_arquebusier
+	aboriginal_hussar
+	aboriginal_swarm_cav
+	aboriginal_riflemen
+	aboriginal_dragoon
+	aboriginal_guerrillas
+}
+
+
+monarch_names = {
+	"Boobala #0" = 1
+	"Jebbedie #0" = 1
+	"Mewinurra #0" = 1
+	"Nangerow #0" = 1
+	"Puruguru #0" = 1
+	"Wiring #0" = 1
+	"Wooglemere #0" = 1
+	"Youwearie #0" = 1
+	"Arlincurra #0" = 1
+	"Coboboring #0" = 1
+	"Mullenbar #0" = 1
+	"Muninyong #0" = 1
+	"Narboing #0" = 1
+	"Nowerong #0" = 1
+	"Nungaryoung #0" = 1
+	"Quadgabung #0" = 1
+	"Tungabung #0" = 1
+	"Wonoburra #0" = 1
+}
+
+leader_names = {
+	Boobala Jebbedie Mewinurra Nangerow Puruguru Wiring Wooglemere Youwearie Arlincurra Coboboring Mullenbar Muninyong Narboing Nowerong Nungaryoung Quadgabung Tungabung Wonoburra
+}
+
+ship_names = {
+	Karakoa Drua Patorani Owong Panineman Peland Pajala Lanong Perahupayang Sandeq Batavia Falua Lisi Zuytdorp Xantho
+}

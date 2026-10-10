@@ -2,17 +2,29 @@ government = native
 add_government_reform = native_clan_council_reform
 government_rank = 1
 primary_culture = gunwinyguan
-religion = dreamtime
+religion = sunni
 technology_group = aboriginal_tech
 capital = 2728 #Tiwi
 
 
-1444.11.11 = {
+1410.11.11 = {
 	monarch = {
-		name = "Native Council"
-		adm = 3
+		name = "Mapularrikimi"
+		dynasty = "Tiwi"
+		adm = 4
 		dip = 3
-		mil = 3
-		regent = yes
+		mil = 5
+		birth_date = 1389.1.1
+	}
+}
+
+1414.10.4 = {
+	heir = {
+		name = "Watuiminangi"
+		dynasty = "Tiwi"
+		adm = 3
+		dip = 2
+		mil = 4
+		birth_date = 1414.10.4
 	}
 }

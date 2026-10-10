@@ -6,6 +6,20 @@
     # color3= { 70 50 40  } #Up to 10% -> try map color here
 # }
 
+# Bardungurra
+BRD = {
+    color1 = { 44 95 158 }
+    color2 = { 209 95 82 }
+    color3 = { 255 255 255 }
+}
+
+# Dambimangari
+DMB = {
+    color1 = { 183 80 96 }
+    color2 = { 255 255 255 }
+    color3 = { 0 0 0 }
+}
+
 # Lucantara 
 LCN = {
     color1 = { 255 116 132 }

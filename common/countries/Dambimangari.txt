@@ -1,0 +1,61 @@
+#Country Name: Please seefilename.
+
+graphical_culture = aboriginalgfx
+
+color = { 183 80 96 }
+#revolutionary_colors = { 10 8 5 }
+
+historical_idea_groups = {
+	administrative_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	aristocratic_ideas
+	spy_ideas
+	maritime_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	aboriginal_boomerang
+	aboriginal_reformed_boomerang
+	aboriginal_horseman
+	aboriginal_outback_warriors
+	aboriginal_cavalry
+	aboriginal_arquebusier
+	aboriginal_hussar
+	aboriginal_swarm_cav
+	aboriginal_riflemen
+	aboriginal_dragoon
+	aboriginal_guerrillas
+}
+
+
+monarch_names = {
+	"Wirlinji #0" = 1
+	"Mowalgarlai #0" = 1
+	"Nyimandum #0" = 1
+	"Amaranga #0" = 1
+	"Banigo #0" = 1
+	"Belegy #0" = 1
+	"Bilaranora #0" = 1
+	"Bilay #0" = 1
+	"Coobine #0" = 1
+	"Munjawally #0" = 1
+	"Mocarde #0" = 1
+	"Nargurethe #0" = 1
+	"Nanmin #0" = 1
+	"Spimey #0" = 1
+	"Tungroonarry #0" = 1
+	"Waninigoo #0" = 1
+	"Weddy #0" = 1
+	"Whiskelmee #0" = 1
+}
+
+leader_names = {
+	Wirlinji Mowalgarlai Nyimandum Amaranga Banigo Belegy Bilaranora Bilay Coobine Mujawally Mocarde Nargurethe Nanmin Spimey Tungroonarry Waninigoo Weddy Whiskelmee
+}
+
+ship_names = {
+	Karakoa Drua Patorani Owong Panineman Peland Pajala Lanong Perahupayang Sandeq Batavia Falua Lisi Zuytdorp Xantho
+}

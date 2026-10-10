@@ -16,6 +16,9 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 9
 discovered_by = aboriginal_tech
+discovered_by = indian
+discovered_by = muslim
+discovered_by = chinese
 center_of_trade = 1
 extra_cost = 8
 

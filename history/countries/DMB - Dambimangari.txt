@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = gunwinyguan
+religion = dreamtime
+technology_group = aboriginal_tech
+capital = 4867 #Warndakarku
+
+
+1444.11.11 = {
+	monarch = {
+		name = "Wirlinji"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
