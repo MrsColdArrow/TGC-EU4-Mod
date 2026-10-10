@@ -5,7 +5,7 @@ NAT = "countries/Natives.txt"
 
 #AboriginalAustralia
 LCN = "countries/Lucantara.txt"
-KUL = "countries/KulinAlliance.txt
+KUL = "countries/Kulin.txt"
 WPY = "countries/Wapuyura.txt"
 
 #Scandinavia
