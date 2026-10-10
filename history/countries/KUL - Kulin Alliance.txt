@@ -1,0 +1,17 @@
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+primary_culture = kulin
+religion = dreamtime
+technology_group = aboriginal_tech
+capital = 1087 #Wurundjeri
+
+
+1444.11.11 = {
+	monarch = {
+		name = "Billibellary"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}

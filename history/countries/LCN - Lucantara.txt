@@ -1,0 +1,31 @@
+government = monarchy
+add_government_reform = mandala_reform
+primary_culture = javanese
+technology_group = chinese
+religion = hinduism
+capital = 2729	# Kuthanyar
+
+1419.1.1 = {
+	monarch = {
+		name = "Kidul Gajah"
+		dynasty = "Kidul Gajah"
+		birth_date = 1389.1.1
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+1429.1.1 = {
+	heir = {
+		name = "Kertawijaya"
+		monarch_name = "Kertawijaya"
+		dynasty = "Kidul Gajah"
+		birth_date = 1429.1.1
+		death_date = 1451.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}

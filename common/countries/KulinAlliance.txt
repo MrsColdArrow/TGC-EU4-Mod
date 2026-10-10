@@ -1,0 +1,53 @@
+#Country Name: Please seefilename.
+
+graphical_culture = aboriginalgfx
+
+color = { 101  138  42 }
+#revolutionary_colors = { 10 8 5 }
+
+historical_idea_groups = {
+	administrative_ideas
+	aristocratic_ideas
+	court_ideas
+	economic_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	expansion_ideas
+}
+
+historical_units = {
+	aboriginal_boomerang
+	aboriginal_reformed_boomerang
+	aboriginal_horseman
+	aboriginal_outback_warriors
+	aboriginal_cavalry
+	aboriginal_arquebusier
+	aboriginal_hussar
+	aboriginal_swarm_cav
+	aboriginal_riflemen
+	aboriginal_dragoon
+	aboriginal_guerrillas
+}
+
+
+monarch_names = {
+	"Bilibellary #0" = 1
+	"Bebejan #0" = 1
+	"Derrimut #0" = 1
+	"Jaga Jaga #0" = 1
+	"Jerum Jerum #0" = 1
+	"Beruk #0" = 1
+	"Burrenupton #0" = 1
+	"Mooney Mooney #0" = 1
+	"Ninggalobin #0" = 1
+	"Poleorong #0" = 1
+}
+
+leader_names = {
+	Bilibellary Bebejan Derrimut Jaga Jerum Beruk Burrenupton Mooney Ninggalobin Poleorong
+}
+
+ship_names = {
+	Karakoa Drua Patorani Owong Panineman Peland Pajala Lanong Perahupayang Sandeq Batavia Falua Lisi Zuytdorp Xantho
+}

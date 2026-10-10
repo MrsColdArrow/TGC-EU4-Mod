@@ -6,6 +6,20 @@
     # color3= { 70 50 40  } #Up to 10% -> try map color here
 # }
 
+# Lucantara 
+LCN = {
+    color1 = { 255 116 132 }
+    color2 = { 255 255 132 }
+    color3 = { 255 255 255 }
+}
+
+# Kulin Alliance
+KUL = {
+    color1 = { 51 120 80 }
+    color2 = { 255 245 221 }
+    color3 = { 255 182 0 }
+}
+
 # Wapuyura
 WPY = {
     color1= { 168 117 168 }

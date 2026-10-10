@@ -4,6 +4,8 @@ PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
 
 #AboriginalAustralia
+LCN = "countries/Lucantara.txt"
+KUL = "countries/KulinAlliance.txt
 WPY = "countries/Wapuyura.txt"
 
 #Scandinavia
