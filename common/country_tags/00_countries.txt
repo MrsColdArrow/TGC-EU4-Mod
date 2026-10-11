@@ -4,6 +4,8 @@ PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
 
 #AboriginalAustralia
+MGU = "countries/Magubila.txt"
+GAB = "countries/Gabanbaldya.txt"
 BRD = "countries/Bardungurra.txt"
 DMB = "countries/Dambimangari.txt"
 LCN = "countries/Lucantara.txt"

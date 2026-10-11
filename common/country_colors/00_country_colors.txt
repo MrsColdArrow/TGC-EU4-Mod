@@ -6,6 +6,20 @@
     # color3= { 70 50 40  } #Up to 10% -> try map color here
 # }
 
+# Magubila
+MGU = {
+    color1 = { 255 216 0 }
+    color2 = { 255 255 255 }
+    color3 = { 255 128 0}
+}
+
+# Gabanbaldya
+GAB = {
+    color1 = { 114 64 92 }
+    color2 = { 255 255 255}
+    color3 = { 181 34 63 }
+}
+
 # Bardungurra
 BRD = {
     color1 = { 44 95 158 }
@@ -36,7 +50,7 @@ KUL = {
 
 # Wapuyura
 WPY = {
-    color1= { 168 117 168 }
+    color1= { 165 71 165 }
     color2= { 255 255 255 }
     color3= { 0 0 0 }
 }

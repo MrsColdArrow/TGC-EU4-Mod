@@ -1,5 +1,15 @@
 # Order here is the priority for taking them, if trigger is true.
 
+KUL = {
+	NOT = { 
+		is_year = 1700
+	}
+}
+
+TIW = {
+	always = yes
+}
+
 CAS = {
 	NOT = { 
 		exists = SPA 

@@ -11,7 +11,7 @@ historical_idea_groups = {
 	spy_ideas
 	infrastructure_ideas
 	aristocratic_ideas
-	diplomatic_ideas_ideas
+	diplomatic_ideas
 	maritime_ideas
 	expansion_ideas
 }

@@ -1,0 +1,52 @@
+#Country Name: Please seefilename.
+
+graphical_culture = aboriginalgfx
+
+color = { 114 64 92 }
+#revolutionary_colors = { 10 8 5 }
+
+historical_idea_groups = {
+	defensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	administrative_ideas
+	plutocratic_ideas
+	diplomatic_ideas
+	trade_ideas
+	quality_ideas
+}
+
+historical_units = {
+	aboriginal_boomerang
+	aboriginal_reformed_boomerang
+	aboriginal_horseman
+	aboriginal_outback_warriors
+	aboriginal_cavalry
+	aboriginal_arquebusier
+	aboriginal_hussar
+	aboriginal_swarm_cav
+	aboriginal_riflemen
+	aboriginal_dragoon
+	aboriginal_guerrillas
+}
+
+
+monarch_names = {
+	"Budira #0" = 1
+	"Burubal #0" = 1
+	"Marinj #0" = 1
+	"Djidjan #0" = 1
+	"Dunan #0" = 1
+	"Djira Wadj #0" = 1
+	"Malub #0" = 1
+	"Miribi #0" = 1
+	"Guginjala #0" = 1
+}
+
+leader_names = {
+	Budira Burubal Marinj Djidjan Dunan Djira Wadj Malub Miribi Guginjala Galgun Yaramnamal Gadjaran Waraganj
+}
+
+ship_names = {
+	Karakoa Drua Patorani Owong Panineman Peland Pajala Lanong Perahupayang Sandeq Batavia Falua Lisi Zuytdorp Xantho
+}

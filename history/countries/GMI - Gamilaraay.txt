@@ -1,18 +1,19 @@
-government = native
-add_government_reform = native_clan_council_reform
-government_rank = 1
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
 primary_culture = gamilaraay
 religion = dreamtime
 technology_group = aboriginal_tech
-capital = 4856 #Barunggam
+capital = 1091 #Kamilaroi
 
 
-1444.11.11 = {
+1443.12.1 = {
 	monarch = {
-		name = "Native Council"
-		adm = 3
-		dip = 3
-		mil = 3
-		regent = yes
+		name = "Gambu"
+		dynasty = "Moree"
+		adm = 2
+		dip = 5
+		mil = 4
+		birth_date = 1421.1.1
 	}
 }
